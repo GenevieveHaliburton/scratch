@@ -1,0 +1,8 @@
+jupyter
+loompy
+louvain
+matplotlib
+numpy
+pandas
+python-igraph
+scanpy
